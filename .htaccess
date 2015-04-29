@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^burgessmetals.com$ [OR]
